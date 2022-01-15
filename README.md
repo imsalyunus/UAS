@@ -2,6 +2,7 @@
 Ujian Akhir Semester<br />
 <b>Isi Folder</b> <br /> pada pengerjaan UAS ini saya menggunakan Text Editor Sublime Text 3<br />
 ![](screnshot/file.PNG)
+![](screnshot/cari1.PNG)
 <br />
 <b>Output tambah_data</b>
 ![](screnshot/tambah1.png)
@@ -13,7 +14,7 @@ Ujian Akhir Semester<br />
 ![](screnshot/ubah1.PNG)
 <br>
 <b>Output cari_data</b>
-![](screnshot/cari1.PNG)
+
 <br>
 <b>Output hapus_data</b>
 ![](screnshot/hapus1.PNG)
