@@ -6,18 +6,18 @@ Ujian Akhir Semester<br />
 <b>Output tambah_data</b>
 ![](screnshot/tambah1.png)
 <br>
-<b>Output daftar_data</b><br />
+<b>Output daftar_data</b>
 ![](screnshot/lihat1.PNG)
 <br>
-<b>Output ubah_data</b><br />
+<b>Output ubah_data</b>
 ![](screnshot/ubah1.PNG)
 <br>
-<b>Output cari_data</b><br />
+<b>Output cari_data</b>
 ![](screnshot/cari1.PNG)
 <br>
-<b>Output hapus_data</b><br />
+<b>Output hapus_data</b>
 ![](screnshot/hapus1.PNG)
 <br>
-<b>Output break</b><br />
+<b>Output break</b>
 ![](screnshot/keluar1.PNG)
 <br>
