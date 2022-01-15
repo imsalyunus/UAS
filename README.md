@@ -12,7 +12,7 @@ view_nilai.py berisi modul untuk :
 - cetak_hasil_pencarian <br /><br />
 input_nilai.py berisi modul untuk :
 - input_data (yang meminta pengguna memasukkan data).<br /><br />
-main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).<br /><br />
+dataMahasiswa.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).<br /><br />
 <b>Output tambah_data</b> <br />
 ![](screnshot/tambah1.png) <br /><br />
 <b>Output lihat_data</b> <br />
