@@ -2,6 +2,8 @@
 Ujian Akhir Semester<br />
 <b>Isi Folder</b> <br /> pada pengerjaan UAS ini saya menggunakan Text Editor Sublime Text 3<br />
 ![](screnshot/file.PNG)
+
+![](screnshot/tambah1.png)
 <br />
 daftar_nilai.py berisi modul untuk :
 - tambah_data
@@ -22,7 +24,7 @@ input_nilai.py berisi modul untuk :
 dataMahasiswa.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 <br />
 <br /><b>Output tambah_data</b><br />
-![alt text](screnshot/tambah1.png)
+
 <br><br>
 <br /><b>Output daftar_data</b><br />
 ![](screnshot/lihat1.PNG)
