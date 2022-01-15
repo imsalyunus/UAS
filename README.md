@@ -5,7 +5,7 @@ Ujian Akhir Semester<br />
 <b>Output tambah_data</b> <br />
 ![](screnshot/tambah1.png) <br />
 <b>Output lihat_data</b> <br />
-![](screnshot/lihatt.PNG) <br />
+![](screnshot/lihat2.PNG) <br />
 <b>Output ubah_data</b> <br />
 ![](screnshot/ubahh.PNG)
 ![](screnshot/cari1.PNG)
