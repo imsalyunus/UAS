@@ -1,7 +1,8 @@
 # UAS
 Ujian Akhir Semester<br />
 <b>Isi Folder</b> <br /> pada pengerjaan UAS ini saya menggunakan Text Editor Sublime Text 3<br />
-![](screnshot/file.PNG)
+![](screnshot/file.PNG) <br />
+<b>Output tambah</b> <br />
 ![](screnshot/tambah1.png)
 ![](screnshot/lihat1.PNG)
 ![](screnshot/ubahh.PNG)
