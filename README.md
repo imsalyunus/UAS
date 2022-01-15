@@ -22,20 +22,20 @@ input_nilai.py berisi modul untuk :
 dataMahasiswa.py berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 <br />
 <br /><b>Output tambah_data</b><br />
-![](screnshot/tambah.png)
+![](screnshot/tambah1.png)
 <br><br>
 <br /><b>Output daftar_data</b><br />
-![](screnshot/lihat.PNG)
+![](screnshot/lihat1.PNG)
 <br><br>
 <br /><b>Output ubah_data</b><br />
-![](screnshot/ubah.PNG)
+![](screnshot/ubah1.PNG)
 <br><br>
 <br /><b>Output cari_data</b><br />
-![](screnshot/cari.PNG)
+![](screnshot/cari1.PNG)
 <br><br>
 <br /><b>Output hapus_data</b><br />
-![](screnshot/hapus.PNG)
+![](screnshot/hapus1.PNG)
 <br><br>
 <br /><b>Output break</b><br />
-![](screnshot/keluar.PNG)
+![](screnshot/keluar1.PNG)
 <br><br>
